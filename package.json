@@ -1,0 +1,12 @@
+{
+  "name": "swagger-docs-generator",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "nodemon -L app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
