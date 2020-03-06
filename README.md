@@ -1,6 +1,6 @@
 # Swagger-docs-generator
 
-This is the simple example how we can leverage `Swagger`
+This is the simple example how we can leverage [Swagger](https://swagger.io/specification/#infoObject)
 
 ![Project Demo](gifty.gif)
 
