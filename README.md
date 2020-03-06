@@ -1,6 +1,8 @@
-# swagger-docs-generator
+# Swagger-docs-generator
 
+This is the simple example how we can leverage `Swagger`
 
+![Project Demo](gifty.gif)
 
 ### Usage
 - `$ yarn start`
