@@ -2,7 +2,7 @@
 
 [![NPM][npm-icon]][npm-url]
 
-This is the simple example how we can leverage [Swagger](https://swagger.io/specification/#infoObject)
+This is the simple example of how we can leverage [Swagger](https://swagger.io/specification/#infoObject)
 
 ![Project Demo](gifty.gif)
 
