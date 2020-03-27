@@ -10,5 +10,5 @@ This is the simple example of how we can leverage [Swagger](https://swagger.io/s
 - `$ yarn start`
 - Open swagger [http://localhost:5000/api-docs/](http://localhost:5000/api-docs/)
 
-[npm-icon]: https://nodei.co/npm/swagger.svg?downloads=true
-[npm-url]: https://www.npmjs.com/package/swagger
+[npm-icon]: https://nodei.co/npm/swagger-jsdoc.svg?downloads=true
+[npm-url]: https://www.npmjs.com/package/swagger-jsdoc
